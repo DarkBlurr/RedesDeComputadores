@@ -50,7 +50,7 @@ roslaunch orb_slam_2_ros mono.launch
 
 ## Desarrollo
 
-En este repo encontramos los diferentes talleres y desarrollos para la materia, cada taller tiene su carpeta y el proyecto final del curso posee una carpeta propia. Se trabajo en el desarrollo de modelos geométricos, su modelamiento y codificación en ROS y Gazebo, en algoritmos de visión, de control de trayectorias y un proyecto de seguimiento visual de usuarios.
+Se trabajo en el desarrollo de modelos geométricos, su modelamiento y codificación en ROS y Gazebo, en algoritmos de visión, de control de trayectorias y un proyecto de seguimiento visual de usuarios.
 
 Todos los robots son simulados en Gazebo en base al framework ROS, y codificado con Python.
 ## Paquetes necesarios para la ejecución de este proyecto:
