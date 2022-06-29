@@ -1,4 +1,4 @@
-#! /usr/bin/env pythona
+#! /usr/bin/env pythonaa
  
 # import ros stuff
 import rospy
