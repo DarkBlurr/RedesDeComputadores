@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#! /usr/bin/env pythona
 
 import rospy
 from nav_msgs.msg import Odometry
