@@ -1,4 +1,4 @@
-# Robótica y Control Servo-Visual
+# REdes de computadores
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -32,9 +32,7 @@
 
   <h3 align="center">Robótica y control Servo Visual</h3>
   
-## Project Description
-
-This repository contains the class workshops for the class. Each workshop has a folder as well as the final project. This repo contains mobile robots geometric models development, its digital model and construction in ROS and Gazebo, machine vision algorithms, trajectory control and a vision-based user following robot.
+## Project Description This repo contains mobile robots geometric models development, its digital model and construction in ROS and Gazebo, machine vision algorithms, trajectory control and a vision-based user following robot.
 
 
 All the robots are simualted in Gazebo and coded with ROS and in Python.
@@ -66,5 +64,4 @@ roslaunch orb_slam_2_ros mono.launch
 ```
 
 ## Integrantes
-* Alejandro Ojeda Olarte
 * Camilo Ernesto Campo Pacheco
